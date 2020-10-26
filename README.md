@@ -1,4 +1,4 @@
-# NLP :AI Chat Bot
+# AI Chat Bot
 
 The main purpose of the bot is to help users discover restaurants quickly and efficiently and to provide a good restaurant discovery experience. The project brief provided to you is as follows.
 
